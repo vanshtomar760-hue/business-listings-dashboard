@@ -143,3 +143,12 @@ listing_master
 ## Author
 
 Vansh Tomar
+---
+
+## Challenges Faced
+
+- Connecting FastAPI backend with MySQL database
+- Handling CORS issues between frontend and backend
+- Configuring React charts using API data
+- Managing GitHub branches and repository setup
+- Exporting MySQL database dump correctly
